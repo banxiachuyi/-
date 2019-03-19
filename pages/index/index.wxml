@@ -1,0 +1,11 @@
+<view class="card" >
+  <image class="bg" src="../../img/bg.jpg" mode="widthFix"></image>
+  <image class="logo" src="../../img/next.png" mode="widthFix"></image>
+
+  <view class="info">
+    <view class="name">半夏初伊</view>
+    <view class="desc">我爱学习，学习让我感到快乐</view>
+    <view>浦城论坛上班</view>
+    <view>948225786@qq.com</view>
+  </view>
+</view>
